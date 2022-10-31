@@ -1,6 +1,9 @@
 <h3>Do the Following instructions:</h3>
+<br />
 php artisan migrate
+<br/>
 composer dump-autoload
+<br/>
 php artisan db:seed
 
 
